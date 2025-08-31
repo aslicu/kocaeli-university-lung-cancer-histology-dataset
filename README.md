@@ -1,4 +1,4 @@
-# 🫁 Kocaeli University Lung Cancer Histology Dataset
+# 🫁 Kocaeli University Lung Cancer Pathology Dataset
 
 The **Kocaeli University Lung Cancer Histology Dataset** is a curated collection of **H&E-stained whole-slide images (WSIs)** of lung tissue, obtained from the Medical Pathology Department of Kocaeli University, Faculty of Medicine.
 

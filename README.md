@@ -51,9 +51,11 @@ dataset_root/
 ```
 ---
 
-## 🔗 Dataset Access
+## 🔗 Dataset Access  
 
-👉 **[Download the dataset here](https://drive.google.com/drive/folders/1BNtVx62udL9DisQQC208boGj8hN_dnt5)**
+👉 You can **download example data [here](https://drive.google.com/drive/folders/1BNtVx62udL9DisQQC208boGj8hN_dnt5)**.  
+
+📦 You can **download the full dataset [here](https://drive.google.com/file/d/1T7GcM9boUZ3luou5vIT_uE7Y4_PUp5XW/)**.  
 
 ---
 
